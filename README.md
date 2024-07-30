@@ -8,3 +8,5 @@ Para ejecutar el juego, necesitas tener instalada la biblioteca `keyboard`. Pued
 
 ```bash
 pip install keyboard
+
+
